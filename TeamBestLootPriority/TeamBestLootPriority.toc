@@ -1,0 +1,10 @@
+## Interface: 11305
+## Title: Team Best Loot Priority
+## Notes: Addon to make Nahijas life easier
+## Author: Some guy everyone stole the code from, stolen and updated for TB by Dotten
+## Version: 1.0
+## OptionalDeps: ViragDevTool
+
+init.lua
+loot.lua
+core.lua
