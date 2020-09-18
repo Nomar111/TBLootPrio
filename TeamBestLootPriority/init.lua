@@ -14,7 +14,7 @@ setfenv(1, T)
 
 -- init debugger and add engine
 VDT_AddData = _G.ViragDevTool_AddData
-VDT_AddData(T, "T")
+if VDT_AddData then VDT_AddData(T, "T") end
 
 -- addon globals
 ADDON_NAME = AddonName
