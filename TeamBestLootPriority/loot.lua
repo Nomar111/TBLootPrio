@@ -1,6 +1,6 @@
 local T = _G.TeamBestLootPriority
 T.loot = {
-	['3365']={name='Imperial Qiraji Armaments',prio='No Prio',zone='AhnQiraj',boss='Battleguard Sartura'},
+	--['3365']={name='Imperial Qiraji Armaments',prio='TEST',zone='AhnQiraj',boss='Battleguard Sartura'},
 	['21222']={name='Imperial Qiraji Armaments',prio='No Prio',zone='AhnQiraj',boss='Battleguard Sartura'},
 	['21227']={name='Imperial Qiraji Regalia',prio='Ferals -> everyone else',zone='AhnQiraj',boss='Battleguard Sartura'},
 	['21648']={name='Recomposed Boots',prio='No Prio',zone='AhnQiraj',boss='Battleguard Sartura'},
